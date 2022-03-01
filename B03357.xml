@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for Sir James Fowlis of Collingtoun, to the petition given in to their Majesties High Commissioner, and the most honourable Estates of Parliament, by Dame Margaret Areskin Lady Castle-haven.</title>
+            <author>Foulis, James, Sir, 1645?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03357</idno>
+            <idno type="STC">Wing F1643A</idno>
+            <idno type="STC">ESTC R177193</idno>
+            <idno type="EEBO-CITATION">52211823</idno>
+            <idno type="OCLC">ocm 52211823</idno>
+            <idno type="VID">175675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175675)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for Sir James Fowlis of Collingtoun, to the petition given in to their Majesties High Commissioner, and the most honourable Estates of Parliament, by Dame Margaret Areskin Lady Castle-haven.</title>
+                  <author>Foulis, James, Sir, 1645?-1711.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dispute between the heir to the estate of Colinton and his father's second wife.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Castlehaven, Margaret Erskine, --  Lady. --  Petition given in to their Majesties High Commissioner, and the most honourable Estates of Parliament, by Dame Margaret Areskin Lady Castle-haven.</term>
+               <term>Castlehaven, Margaret Erskine, --  Lady --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Foulis, James --  Sir, 1645?-1711 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Decedents' family maintenance --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175675:1"/>
+            <head>
+               <hi>ANSWERS</hi> For Sir <hi>James Fowlis</hi> of <hi>Collingtoun,</hi> to the Petition given in to Their Majeſties high Commiſſioner, and the moſt Honourable Eſtates of Parliament, by Dame <hi>Margaret Areskin</hi> Lady <hi>Caſtle-haven.</hi>
+            </head>
+            <p>THE deceas'd Sir <hi>James Fowlis</hi> of <hi>Collingtoun,</hi> being firſt married to Dame <hi>Barbara Ainſlie,</hi> Mother to the now Sir <hi>James,</hi> who brought with her to that Family, in Money and Land, to the value of 50000 Merks; The Defuncts Father in Contem<g ref="char:EOLhyphen"/>plation of the Marriage, did diſpone this Eſtate to his Son, and to the Heirs Male to be procreat of that Marriage, and the Son was obliged to do no Deed that might evacuat the Male Succeſſion; By which Proviſion, the now Sir <hi>James Fowlis,</hi> as eldeſt Son of the Marri<g ref="char:EOLhyphen"/>age, was a lawful Creditor to his Father, long prior to his entrie in any ſecond Contract with the Lady <hi>Caſtle-haven.</hi>
+            </p>
+            <p>This Family being brought low, and the laſt Sir <hi>James</hi> coming to be in great Debt, by rea<g ref="char:EOLhyphen"/>ſon of the Calamities of the late times, and of his conſtant adherence to the Royal Family; he did in the year 1670, marry this Sir <hi>James</hi> his eldeſt Son, to the eldeſt Daughter of the deceaſ<g ref="char:EOLhyphen"/>ed <hi>John Boyd,</hi> with whom he got 20000 pound of Tocher beſides 40000 pound Sir <hi>James</hi> got by that Marriage, and his Father did at that time diſpone to him the Eſtate of <hi>Collingtoun</hi> extending to 3600 <hi>Merks</hi> yearly, whereby it is evident to a Demonſtration, that the great Sums this Sir <hi>James</hi> got by this Lady does far exceed all the Eſtate that he is now in poſſeſſion of in the Right of his Father, and by vertue of any diſpoſition from him.</p>
+            <p>The ſaid Deceast Sir <hi>James</hi> having in <hi>Anno.</hi> 1661. Married the Now Lady <hi>Caſtle-haven,</hi> beſide the ſpecial oblidgment in her Contract; there is a General Clauſe by which ſhe is pro<g ref="char:EOLhyphen"/>vided to the Liferent of what ſhould be Conqueſt during the Marriage. And upon this Clauſe ſhe purſued the now Sir <hi>James</hi> before the Lords of Seſſion, for the Liferent of all Sums of Money that his Father had applyed during the Marriage with her, for payment of the Debts af<g ref="char:EOLhyphen"/>fecting the Lands of Collingtoun, and wherein the Lords having decided according to the current of Deciſions in former Caſes, and found that the Lady had no intereſt in Sums conſum<g ref="char:EOLhyphen"/>ed during the Marriage by payment of Debts; She did interpoſe a proteſtation for Remeid of Law or Appeal to the Parliament, and thereupon the Interloquitor of the Lords of Seſſion is Reſcinded, and the Parliament by a Remit to the Committee of Fines and Forfaultures did find and declare the Eſtate of the Deceaſt Lord <hi>Collingtoun</hi> lyable to the Lady for her Liferent-uſe of the Annualrents of all Sums acquired by His Father during the Marriage and whereof the Ef<g ref="char:EOLhyphen"/>fects were extant the time of the diſſolution of the Marriage; whether by payment of Debts Contracted prior to the Marriage, Redeeming of wadſets or other wayes, and allowed an joint Probation to either Party, before the ſaid Committee for liquidating the Sums ſo acquired, and for proving, by whoſe means theſe Sums were made up, and to make report thereof to the next Seſſion of Parliament.</p>
+            <p>This Affair having been called before the ſaid Committee, there was a Condeſcendence given in by the Lady, of the Debts wherein the laſt <hi>Collingtoun</hi> ſtood engaged, and which the Com<g ref="char:EOLhyphen"/>mittee by an Interlocutor, 11. <hi>March</hi> 1691. did ſuſtain as probative for liquidating the Burdens that affected this Eſtate, the time of the Ladies entering in the ſaid Contract of Mar<g ref="char:EOLhyphen"/>riage, unleſs that the Defender betwixt and a particular day therein aſſigned, could prove that any part of theſe Debts had been payed from the time that they were given up by the late Lord <hi>Collingtoun,</hi> which was about the year 1657. and before his Marriage with the Lady, which was in <hi>anno</hi> 1661, but the Committee not having occaſion to call this Affair thereafter, there is no further Procedure therein ſince that time.</p>
+            <p>There is now a Petition given in to my Lord Commiſſioner, his Grace, and Honourable Eſtates of Parliament, by the Lady <hi>Caſtle-haven,</hi> and of which the Defender ſhall not give his Grace and your Lordſhips the trouble of a needleſs Repetition, but ſhall endeavour to make Anſwer thereto, as he goes through the ſeveral Heads thereof.</p>
+            <pb n="2" facs="tcp:175675:2"/>
+            <p>As to the Preamble, bearing that ſhe was induced to marry the Defenders Father, and brought a conſiderable Joynture, of 40 Chalders of Victual with her, without any other Retri<g ref="char:EOLhyphen"/>bution than the ſaid Proviſion in her Contract, in relation to her Liferent of the Conqueſt.</p>
+            <p>It is Anſwered for the Defender, That with all ſubmiſſion my Lady might have forborn to have uſher'd in this her Petition with ſuch a narrative, as to her being induced to marry the De<g ref="char:EOLhyphen"/>fenders Father, whoſe merit (upon many conſiderations) did render him a ſutable Match to this Lady; and it had been more her Honour to have acknowledged, that the ſame was the true a<g ref="char:EOLhyphen"/>riſe of her free choice of a perſon of that Worth, then that any ſordid and indirect methods were taken to induce her to this Marriage. And as to the Joynture mentioned in the Petition, it is not tour that my Lady did for ſeveral years after her Marriage, leave in a ſeparat State from her Husband, and that thereafter a ſecond Settlement being made betwixt them, the De<g ref="char:EOLhyphen"/>funct had only 24 Chalders of Victual yearly of the ſaid Joynture allowed to him, of which he never made 20 Chalders <hi>effectivè,</hi> the remainder being uplifted and diſpoſed upon by her ſelf, and that the Defunct during all his life, was neceſſitate to keep a ſeparate Family for his Children and Servants, he alone being intertained in the Family with his Lady, whoſe Fami<g ref="char:EOLhyphen"/>ly did conſiſt of her Children and Grand-children, and their Servants, and that no Servant that belonged to the Defunct were ſo much as allowed a Mail of Meat from her, during all that time.</p>
+            <p>As to what is further Repreſented in the Petition, in relation to the Proceſs purſued before the Seſſion, and to the Proteſtation for remeid of Law, and to what has ſince proceeded there<g ref="char:EOLhyphen"/>in, the Defender ſhall not give his Grace and your Lordſhips the trouble to repeat the ſame, as being but a Narrative of the ſtate of the Caſe above ſet down.</p>
+            <p>The Scope therefore of this Petition, and the Deſign of the giving in thereof, Reſolves ſummarly, in thir few Heads.</p>
+            <p n="1">1. That in <hi>June</hi> 1656, there was a Liſt of Debts given in, by the late Lord <hi>Collingtoun</hi> himſelf, which in the Condeſcendance before the Committee, bears, to extend to 300000 Merks, and which being ſtanding out, unſatisfied the time of the Marriage, it neceſſarily fol<g ref="char:EOLhyphen"/>lows, that the free Eſtate the Defunct left behind him, was purchaſed by Moneys acquired, during the Marriage, his Debts exceeding then the value of his Eſtate, and was payed by his Acquiſitions, he being maintained in Family, upon the Ladies other Joynter.</p>
+            <p n="2">2. That the 24. Chalder of Victual, that the Defunct uplifted out of the Lands of <hi>Inter<g ref="char:EOLhyphen"/>teil,</hi> did extend to upwards of 80000 Merks, during the Marriage, beſides 140000 Merks, he received from the King in Sallaries and Penſions, as a Lord of the Seſſion, and Juſtice-Clerk: And that thereby, the Debts before the Marriage, being payed, by the Acquiſiti<g ref="char:EOLhyphen"/>ons, during the Marriage. My Lady concludes, that ſhe has Right to the Liferent thereof, and that the Eſtate he left behind him, being ten or twelve Thouſand Merks yearly, in the Poſſeſſion of the Defender, is to be underſtood the effects, that were extant at the Diſſolu<g ref="char:EOLhyphen"/>tion of the Marriage: And that therefore, the Defender ought to be Decerned, in Payment of the Bygones, and to put the Lady in Poſſeſſion of the Eſtate of <hi>Collingtoun,</hi> during her Lifetime.</p>
+            <p>Before the Defender make any particular Anſwer to this point of the Petition, he Humbly offers to the Lord Commiſſioner his Grace, and the Honourable Eſtates of Parliament, that the Purſuer in all this Debate, had never the confidence to inſiſt againſt the Defender, upon any paſſive Title, as repreſenting his Father, becauſe ſhe knew, he could not be lyable per<g ref="char:EOLhyphen"/>ſonally. 2. From what is above ſaid, it is clear, that he was an Anterior Creditor to his Fa<g ref="char:EOLhyphen"/>ther, and the Father in the Contract of Marriage with the Defenders Mother, is particular<g ref="char:EOLhyphen"/>ly obliged, to do no Fact or Deed, whereby the Heirs-Male of the Marriage, could be any ways prejudged, in the Right and Succeſſion to the Lands of <hi>Collingtoun,</hi> and Teinds therein ſpecified, and conſequently, the Diſpoſition of the Eſtate made to the Defender, depending upon a Cauſe prior to the Purſuers Contract of Marriage, which was moſt onerous, was ſuffi<g ref="char:EOLhyphen"/>cient <hi>per ſe,</hi> to evacuate any interveening, vagrant Clauſe of Conqueſs, in the Purſuers Con<g ref="char:EOLhyphen"/>tract. And that therefore, the Defunct being legally Denuded, in his own time of his Eſtate, in the Defenders favours, upon ſuch an onerous Accompt: This Eſtate is not to be conſider<g ref="char:EOLhyphen"/>ed as the Defuncts, at the Diſſolution of the Marriage, and conſequently, not to fall under the compaſs of the Proviſion, in the Purſuers Contract, or of the Interlocutor of Parliament, in their remit to the Committee of Fynes and Forfaultures.</p>
+            <p>This being premiſed, It is Anſwered for the Defender, that as the Condeſcendence mentio<g ref="char:EOLhyphen"/>ned in the Petition, is extravagant, and given up at Random, ſo ſuppoſing it were true, in relation to the ſtanding out Debts, the time of the Marriage, Yet the Concluſion inferred therefrom, ariſing from a ſtreached and lubrick Preſumption, is eaſily Redargued, in follow<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:175675:2"/>the Purſuers own Method, by a true and genuine State of the Affair from thir Anſwers?
+<list>
+                  <item>1. Suppoſing the Debts of the Lord <hi>Collingtoun</hi> at his Marriage, did amount, as in the Conde<g ref="char:EOLhyphen"/>ſcendance to 300000 Merks, and the Real Eſtate belonging to him, whether in his own Poſſeſſi<g ref="char:EOLhyphen"/>on, or of that of his Creditors, not amounting in the higheſt extant, to 11000 Merks yearly, this with regard to publick Burthens, and other neceſſary Deductions, does annually fall ſhort in 8000 Merks, to pay the Annualrents of the Debt.</item>
+                  <item>2. It is known, my Lord <hi>Collingtoun,</hi> for upwards of ten years, had only the Sallary, of an ordinary Lord of the Seſſion, and this being joyned with the 24. Chalder of Victual, did make up at the higheſt but 6000 Merks yearly: So that ſtill there is an annual in lack of 2000 Merks, which during theſe ten years, will do more, nor ballance any additional Acceſs, the the Defunct had in his Sallaries, as Juſtice-Clerk.</item>
+                  <item>3. The Defunct during the ſhort time, the Lady and he cohabite together, ſtayed himſelf all alone in Family with her, and had a diſtinct and ſeparate Family of his own, for his Chil<g ref="char:EOLhyphen"/>dren and Servants, which he was neceſſitat to maintain, and in the maintainance whereof, re<g ref="char:EOLhyphen"/>gard being had to his Quality, his Sallary, as a Lord of the Seſſion, could not ariſe to defray the ſame: Beſides, that he maintained the Defender his Son, for three years abroad, which are neceſſary Deductions, to diminiſh and leſſen a vagrant Clauſe of Conqueſt.</item>
+                  <item>4. There are ſeveral Debts yet lying out, for which, albeit the Defender now ſtands only bound, yet it is evident (as the Sun in the Firmament) they are Debts of the Fathers, be<g ref="char:EOLhyphen"/>cauſe the Defender had no occaſion to contract a ſix pence of Debt himſelf, and theſe as they are condeſcended upon, muſt likeways deduce out of this pretended Condeſcendance, given in by the Lady.</item>
+               </list>
+            </p>
+            <p>From which then, it is evident to a Demonſtration, that the Defuncts condition being con<g ref="char:EOLhyphen"/>ſidered, as its affirmed by the Purſuer herſelf, to have been at his Marriage, and all the In<g ref="char:EOLhyphen"/>comes, during the Marriage, which the Purſuer calls the Acquiſitions, being brought to a yearly Ballance: It is impoſſible, there could be any free Conqueſs, or any Eſtate extant, be<g ref="char:EOLhyphen"/>longing to the Defunct, at the Diſſolution of the Marriage, which can be conſidered as the effects and product of the ſaid Conqueſs, and of the Joynter and Sallaries, that the Defunct is alledged to have received, during the Marriage, whereby this lubrick Preſumption of the Purſuer, to the Conviction of the World, is Redargued, even though the Defender in his Anſwers, ſhould yeild the Point as it is urged for her, and that conſequently the Subſumpti<g ref="char:EOLhyphen"/>on of the Bill in the Petition, not being proven in the Terms of the Interlocutor of Parlia<g ref="char:EOLhyphen"/>ment: But running upon extravagant Notions and Suppoſitions, the ſame can never infer the concluſion of the Petition, or be ground in Law for the Parliament, to Decern the Defender, either as to Bygons, or as to putting the Lady in Poſſeſſion, in time coming.</p>
+            <p>As the Defender then from what's above-ſaid, does ſufficiently elide the preſumption urged for the Purſuer, ſo that my Lord Commiſſioner his Grace, and the Honourable Eſtates of Par<g ref="char:EOLhyphen"/>liament, may truly know the Defenders circumſtances, and what Eſtate he had from his Fa<g ref="char:EOLhyphen"/>ther, even laying aſide the Defenders juſt Claim thereto, from his Mothers Contract of Mar<g ref="char:EOLhyphen"/>riage, he does ingenuouſly declare, that the Eſtate diſponed to him by his Father, and where<g ref="char:EOLhyphen"/>of he is now in the Poſſeſſion, did not at the time it was diſponed in yearly Rent, amount to more than 3600 Merks, and which will evidently appear when Inquiry is made in the Affair, by an impartial Probation to be adduced by either Party.</p>
+            <p n="2">2. The Defender ſhall prove <hi>ſub periculo cauſa,</hi> that he has got by his own Marriage firſt and laſt, above 60000 Pounds <hi>Scots,</hi> which exceeds what Eſtate he had of his Father, and therefore it's left to the Juſtice of the Parliament to conſider, whether or not the Defender has bought the Inheritance of his Fathers, <hi>tanquam quilibet,</hi> and that at the deareſt Purchaſe in the Kingdom, and conſequently, all things in relation to this Affair, being conſidered in the equal ballance of Juſtice, his Grace and your Lordſhips are to judge, upon what lubrick and extravagant grounds, the Purſuer ſupports the Juſtice of her Cauſe, and as the Lords of Seſ<g ref="char:EOLhyphen"/>ſion did determine conform to the current of Deciſions, and with a regard to the whole merits of the Cauſe, ſo the Honourable Eſtates of Parliament are left to give their Opinion and Judgment, if there was any rational, legal, or juſt ground in the Purſuer, in all the ſteps of this Affair to have uſed ſuch injurious Reflections upon the honour of that Judicatory, or to have raiſed ſuch groundleſs Clamor and Noiſe, by ſuch a Proceſs as this is, which when con<g ref="char:EOLhyphen"/>ſidered at the bottom, it's hoped will be found, to be of little Weight or Moment. And therefore, the whole Affair lying now under the View and Conſideration of the High Court of Parliament, who being to determine therein, in a Judicative Capacity, and as being the Fountain of all Juſtice, the Defender in the juſt confidence of the true merits of his Cauſe, has good ground to have neither fear nor apprehenſion of the great Pretenſions, this Purſuer
+<pb n="4" facs="tcp:175675:3"/>has been pleaſed to intertain her ſelf with, and humbly expects, after the great Trouble and Expences he has been put to, to be at laſt aſſoilzied from a Proceſs of this nature, wherein, as there is no relevancy in point of Law, ſo there is much, calumniouſly alledged in matter of Fact, as will appear from what is above-repreſented, and when a legal and impartial Tryal is taken, in relation to all the Circumſtances of this Proceſs, eſpecially ſeing that by the Purſuers Contract of Marriage, whereupon this Plea is founded, the Lady beſide the ſpecial Proviſion in her fa<g ref="char:EOLhyphen"/>vours therein, is only provided to the Liferent of the Conqueſt, and the Children of the Marriage in Fee, which failzieing, to the ſaid Sir <hi>James</hi> his other Heirs, who are appointed to ſucceed him in his other Eſtate, and there being no other Eſtate but <hi>Collingtoun</hi> at the time of the Marriage, and the Lady all along acknowledging that her Husbands Debts did exceed the value of his Eſtate, the time of the Marriage, it cannot be contraverted, but it was the meaning of Parties in the ſaid Contract, that the ſaids Lands of <hi>Collingtoun</hi> ſhould be relieved of the Debt, for the behove of the Heir of the firſt Marriage, and not to fall to the Heirs Male of the ſecond Marriage as Conqueſt, ſeing the words of the Contract are as clear as the Sun, that the Lands of <hi>Collingtoun</hi> are provided to the ſaid Sir <hi>James</hi> his Heirs of the firſt Marriage, and his applying as much of the Acquiſitions or In-comes, during the Marriage, for diſburden<g ref="char:EOLhyphen"/>ing the ſaids Lands of <hi>Collingtoun</hi> cannot at all be quarrelled, the ſame being ſo conſequential to the meaning of Parties, otherwiſe the Reſervation in favours of the Heirs of the firſt Marri<g ref="char:EOLhyphen"/>age, would be a ſham, and they to ſucceed to nothing: But ſuppoſe the ſaid Clauſe had not been, and which <hi>per ſe</hi> is ſufficient, yet the Lady cannot legally quarrel the Defenders Right to this Eſtate, ſeing he is able to prove, that he got more by his Lady as aforeſaid, than would have purchaſt an Eſtate of greater value, than what his Father diſponed to him as ſaid is, and if any difficulty remain with his Grace or your Lordſhips, the Defender humbly craves, that his Procurators may be heard in your own Preſence.</p>
+            <p>In Reſpect whereof, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
